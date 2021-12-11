@@ -1,5 +1,5 @@
 # TabuadaC
-A multiplication table in C language
+A multiplication table with C language
 
 Primeiramente, foi criado um loop para limitar as possibilidades de entrada. Caso o número informado fosse >10 ou o número fosse <1, seria solicitado novamente o número.
 
